@@ -1,15 +1,15 @@
 # 🟣 purple_counter
 
-A simple Move module deployed on the **Sui Testnet** that implements a `Counter` object.
+A simple Move module deployed on the **Sui Testnet** that implements a `Counter` object.  
 Made for a homework submission to the sui bootcamp 2025 in Bucharest
 
 ---
 
 ## Submission Info
 
-| **GitHub Repo** | [https://github.com/Mariusw24/purple_counter] |
-| **Package ID** | `0xc31b3d00da1900949d84224c74848e107722baf5e334e1d545459641aa1d1802` |
-| **Transaction Hash**| `5X4mWFzBDUmgBAEVB2FpkKLPFQ6WFNGWgR9YtJaF7voa` |
+| **GitHub Repo** | [https://github.com/Mariusw24/purple_counter] |  
+| **Package ID** | `0xc31b3d00da1900949d84224c74848e107722baf5e334e1d545459641aa1d1802` |  
+| **Transaction Hash**| `5X4mWFzBDUmgBAEVB2FpkKLPFQ6WFNGWgR9YtJaF7voa` |  
 
 ---
 
